@@ -1,3 +1,4 @@
+
 PRODUCT VISION – PHẦN MỀM QUẢN LÝ SINH VIÊN
  Phần mềm quản lý sinh viên được xây dựng nhằm hỗ trợ nhà trường và giảng viên quản lý thông tin sinh viên một cách nhanh chóng, chính xác và hiệu quả.
 
@@ -10,6 +11,8 @@ Hệ thống quản lý sinh viên được phát triển nhằm hỗ trợ nhà
 Hệ thống cho phép lưu trữ và quản lý hồ sơ sinh viên, lớp học, ngành đào tạo, điểm số và kết quả học tập. Người dùng có thể tra cứu, cập nhật thông tin và theo dõi tình trạng học tập của sinh viên một cách thuận tiện.
 
 Thông qua việc số hóa và tập trung dữ liệu, hệ thống hướng đến **giảm công việc quản lý thủ công, hạn chế sai sót, tiết kiệm thời gian và hỗ trợ nhà trường nâng cao hiệu quả quản lý đào tạo**.
+
+CÓ THỂ QUẢN LÍ ĐIỂM, KẾT QUẢ HỌC TẬP
 
 Thông tin cá nhân của bạn:
 - Trần Thị Cẩm Nhung
