@@ -14,7 +14,5 @@ Thông qua việc số hóa và tập trung dữ liệu, hệ thống hướng �
 
 CÓ THỂ QUẢN LÍ ĐIỂM, KẾT QUẢ HỌC TẬP
 
-Thông tin cá nhân của bạn:
-- Trần Thị Cẩm Nhung
-- MSSV: 25S1080029 
+
   
